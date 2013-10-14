@@ -10,3 +10,6 @@ ZUCCHINI_DEVICE="iPhone" zucchini run /Users/jaideep/Documents/developer/BasicZu
 
 Don't start your app from Xcode
 Zucchini will do it via cmd line above
+
+Make sure your ios Device does not have any prvious instances running
+
