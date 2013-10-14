@@ -1,0 +1,11 @@
+app: /Users/jaideep/Library/Developer/Xcode/DerivedData/OpenTokFullTutorial-hiaesuzgvexijecncwylqpiapxdx/Build/Products/Debug-iphoneos/OpenTokFullTutorial.app 
+
+
+template: '/Developer/Platforms/iPhoneOS.platform/Developer/Library/Instruments/PlugIns/AutomationInstrument.bundle/Contents/Resources/Automation.tracetemplate'
+
+devices:
+  
+  iPhone:
+    UDID  : 33a8d2c2d0f431c2eb50f2c59ca85d5faa678ce5
+    screen: retina_ios6
+
